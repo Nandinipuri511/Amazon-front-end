@@ -4,7 +4,7 @@ A responsive clone of the Amazon homepage built using only **HTML** and **CSS**,
 
 ## 📸 Demo
 
-![Amazon Clone Screenshot](screenshot.png) <!-- Replace with your own screenshot file name -->
+![Amazon Clone Screenshot]
 
 <img width="1900" height="1018" alt="Screenshot 2025-07-23 010100" src="https://github.com/user-attachments/assets/cc39af85-7e5d-411a-9d9f-3f8393c56bb6" />
 
